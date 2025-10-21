@@ -133,6 +133,6 @@ POSSIBILITY OF SUCH DAMAGE.
 ## 🙏 Credits
 
 * **Autor der Originalbibliothek:** [Jeff Hlywa](https://github.com/jhlywa)
-* **Erweiterung & Chess960-Integration:** *[OlavEe1970](https://github.com/OlavE70)*
+* **Erweiterung & Chess960-Integration:** *[OlavE1970](https://github.com/OlavE70)*
 
 ---
