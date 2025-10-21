@@ -1,0 +1,13 @@
+{
+  "name": "chess_960.mjs",
+  "version": "1.0.0",
+  "description": "**chess_960.mjs** ist eine um Chess960 erweiterte Version der JavaScript-Schachbibliothek [chess.js](https://github.com/jhlywa/chess.js) von **Jeff Hlywa**.",
+  "main": "src/Chess.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Main/Base: Jeff Hlywa, Chess960: OlavE1970",
+  "license": "BSD-2-Clause"
+}
